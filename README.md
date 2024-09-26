@@ -7,6 +7,7 @@ Quick Sort is a highly efficient sorting algorithm, known for its divide-and-con
 - Space complexity of O(log n)
 
 Please consider diving into ["quick_sort.go"](https://github.com/xoticdsign/QuickSort/blob/xoti%24/quick_sort.go) file for more explanation with examples and vizualization!
+
 ## Glance of the algorithm
 
 Let's see how the algorithm looks:
