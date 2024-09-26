@@ -8,7 +8,7 @@ Quick Sort is a highly efficient sorting algorithm, known for its divide-and-con
 
 Please consider diving into ["quick_sort.go"](https://github.com/xoticdsign/QuickSort/blob/xoti%24/quick_sort.go) file for more explanation with examples and vizualization!
 
-### Glance of the algorithm
+## Glance of the algorithm
 
 Let's see how the algorithm looks:
 
@@ -54,7 +54,7 @@ Key Concepts of Quick Sort:
 
 4. Base Case: The recursion stops when sub-arrays have zero or one element, which means they are sorted.
 
-### License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
